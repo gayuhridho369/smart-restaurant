@@ -1,0 +1,120 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "code": "P-001",
+      "name": "Sate Ayam",
+      "price": 15000,
+      "is_ready": true,
+      "image": "sate-ayam.jpg"
+    },
+    {
+      "id": 2,
+      "code": "P-002",
+      "name": "Soto Ayam",
+      "price": 14000,
+      "is_ready": true,
+      "image": "soto-ayam.jpg"
+    },
+    {
+      "id": 3,
+      "code": "P-003",
+      "name": "Ayam Geprek",
+      "price": 17000,
+      "is_ready": true,
+      "image": "ayam-geprek.jpg"
+    },
+    {
+      "id": 4,
+      "code": "P-004",
+      "name": "Mie Ayam",
+      "price": 12000,
+      "is_ready": true,
+      "image": "mie-ayam.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "code": "P-001",
+      "name": "Sate Ayam",
+      "price": 15000,
+      "is_ready": true,
+      "image": "sate-ayam.jpg"
+    },
+    {
+      "id": 2,
+      "code": "P-002",
+      "name": "Soto Ayam",
+      "price": 14000,
+      "is_ready": true,
+      "image": "soto-ayam.jpg"
+    },
+    {
+      "id": 3,
+      "code": "P-003",
+      "name": "Ayam Geprek",
+      "price": 17000,
+      "is_ready": true,
+      "image": "ayam-geprek.jpg"
+    },
+    {
+      "id": 4,
+      "code": "P-004",
+      "name": "Mie Ayam",
+      "price": 12000,
+      "is_ready": true,
+      "image": "mie-ayam.jpg"
+    },
+    {
+      "id": 5,
+      "code": "P-005",
+      "name": "Bakso",
+      "price": 11000,
+      "is_ready": true,
+      "image": "bakso.jpg"
+    },
+    {
+      "id": 6,
+      "code": "P-006",
+      "name": "Bakmi Jawa",
+      "price": 14500,
+      "is_ready": true,
+      "image": "bakmi-jawa.jpg"
+    },
+    {
+      "id": 7,
+      "code": "P-007",
+      "name": "Nasi Goreng",
+      "price": 12000,
+      "is_ready": true,
+      "image": "nasi-goreng.jpg"
+    },
+    {
+      "id": 8,
+      "code": "P-008",
+      "name": "Gado Gado",
+      "price": 14500,
+      "is_ready": true,
+      "image": "gado-gado.jpg"
+    },
+    {
+      "id": 9,
+      "code": "P-009",
+      "name": "Pecel Lele",
+      "price": 19000,
+      "is_ready": true,
+      "image": "pecel-lele.jpg"
+    },
+    {
+      "id": 10,
+      "code": "P-010",
+      "name": "Mie Goreng",
+      "price": 11500,
+      "is_ready": true,
+      "image": "mie-goreng.jpg"
+    }
+  ],
+  "cart": [],
+  "order": []
+}
